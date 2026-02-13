@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 👋
 -->
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=jicki&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Clansty's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jicki&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
-
 ### 小炒肉 😄
 - 🧑‍💻 Vibe Coding .. :hammer:
 - 🔭 Regain Extended Dream
@@ -23,3 +21,5 @@ Here are some ideas to get you started:
 - :orange_book: Focusing on Kubernetes & Golang
 - :ram: 热爱 DevOps 
 - 👯: 强迫症患者
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=jicki&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Clansty's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jicki&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
